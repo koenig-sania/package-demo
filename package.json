@@ -1,0 +1,11 @@
+{
+  "name": "@koenig-sania/gpr-demo-package", 
+  "version": "0.0.1",
+  "description": "A demo for GitHub Packages Registry",
+  "scripts": {
+    "build": "echo 'Build successful!'",
+    "test": "echo 'All tests passed!' && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
