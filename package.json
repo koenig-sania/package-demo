@@ -1,9 +1,9 @@
 {
   "name": "@koenig-sania/gpr-demo-package", 
-  "version": "1.0.0",  // <-- VERSION BUMPED
+  "version": "1.0.0",  
   "description": "A demo package with format utilities.",
-  "main": "format-utils.js", // <-- NEW ENTRY POINT
-  "files": [ // <-- LISTS files to include in the package archive
+  "main": "format-utils.js",  
+  "files": [ 
     "format-utils.js"
   ],
   "scripts": {
