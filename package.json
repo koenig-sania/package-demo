@@ -1,7 +1,11 @@
 {
   "name": "@koenig-sania/gpr-demo-package", 
-  "version": "0.0.1",
-  "description": "A demo for GitHub Packages Registry",
+  "version": "1.0.0",  // <-- VERSION BUMPED
+  "description": "A demo package with format utilities.",
+  "main": "format-utils.js", // <-- NEW ENTRY POINT
+  "files": [ // <-- LISTS files to include in the package archive
+    "format-utils.js"
+  ],
   "scripts": {
     "build": "echo 'Build successful!'",
     "test": "echo 'All tests passed!' && exit 0"
